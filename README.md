@@ -1,5 +1,7 @@
 # Retirement Wealth Projections
 
+![Retirement Planner Screenshot](assets/example.jpg)
+
 An app to simulate uncertainty in retirement net worth forecasting.
 
 ## Features
